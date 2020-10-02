@@ -1,0 +1,12 @@
+.main{
+    display: flex;
+    flex-flow: row;
+    align-items: space-around;
+}
+
+@media (max-width:499px){
+    .main{
+        display: flex;
+        flex-direction: column;
+    }
+}

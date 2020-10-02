@@ -1,0 +1,19 @@
+.CheckoutText{
+    align-items: center;
+    align-self: center;
+    text-align: center;
+    justify-content: center;
+}
+
+.checkoutSummary{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.buttons{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 5%;
+ }
